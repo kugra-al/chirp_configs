@@ -1,0 +1,11 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,LY0RAL,145.625000,-,0.600000,,88.5,88.5,023,NN,23,Tone->Tone,FM,5.00,,,Alytus Repeater,,,,
+2,LY0RAM,438.625000,,7.600000,,88.5,88.5,023,NN,23,Tone->Tone,FM,5.00,,,Alytus Repeater,,,,
+3,LY0RAN,145.650000,,0.600000,,88.5,88.5,023,NN,23,Tone->Tone,FM,5.00,,,Anykščiai Repeater,,,,
+4,LY0RUT,145.700000,,0.600000,,88.5,88.5,023,NN,23,Tone->Tone,FM,5.00,,,Utena Repeater,,,,
+5,LY0RUT,439.350000,,7.600000,,77.0,77.0,023,NN,23,Tone->Tone,FM,5.00,,,Utena Repeater,,,,
+6,LY0RVN,145.750000,,0.600000,,186.2,186.2,023,NN,23,Tone->Tone,FM,5.00,,,Vilnius Repeater,,,,
+7,LY1XD,438.250000,,7.600000,,88.5,88.5,023,NN,23,Tone->Tone,FM,5.00,,,Vilnius Repeater,,,,
+8,LY0RKU,145.787500,,0.600000,,79.7,79.7,023,NN,23,Tone->Tone,FM,5.00,,,Kaunas Repeater,,,,
+9,LY0RKU,438.850000,,7.600000,,88.5,88.5,023,NN,23,Tone->Tone,FM,5.00,,,Kaunas Repeater,,,,
+10,LY0RBA,439.400000,,7.600000,,88.5,88.5,023,NN,23,Tone->Tone,FM,5.00,,,Palanga Repeater,,,,
